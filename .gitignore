@@ -1,0 +1,32 @@
+# Node.js
+discord-bot/node_modules/
+discord-bot/.env
+discord-bot/package-lock.json
+discord-bot/.pnpm-debug.log*
+discord-bot/npm-debug.log*
+discord-bot/yarn-debug.log*
+discord-bot/yarn-error.log*
+
+# Logs
+*.log
+logs/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Config (enthält sensible Daten)
+.env
+.env.local
+.env.production
+
+# Backup files
+*.bak
+*.backup
