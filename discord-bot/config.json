@@ -1,0 +1,15 @@
+{
+  "reviveCommand": {
+    "name": "revive",
+    "description": "Belebt einen Spieler auf dem FiveM Server wieder",
+    "timeout": 5000
+  },
+  "messages": {
+    "success": "✅ Spieler {id} wurde erfolgreich wiederbelebt!",
+    "error": "❌ Fehler beim Wiederbeleben von Spieler {id}",
+    "noPermission": "❌ Du hast keine Berechtigung diesen Command zu nutzen!",
+    "invalidId": "❌ Ungültige Spieler-ID!",
+    "playerNotFound": "❌ Spieler mit ID {id} wurde nicht gefunden!",
+    "serverOffline": "❌ FiveM Server ist offline oder nicht erreichbar!"
+  }
+}
